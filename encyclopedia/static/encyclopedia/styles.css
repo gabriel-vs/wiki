@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    position: relative;
+    top: 20px;
+    height: 40vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.newpag {
+    position: relative;
+    top: 10px;
+    width: 20%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+input[id="link"] {
+    position: relative;
+    right: 3px;
+    color:#3388e4;
+    font-size: 12px;
+    border: none;
+    background-color: white;
+}
+
+input[id="link"]:hover {
+    color:#3e6dd3;
+    text-decoration: underline
+}
